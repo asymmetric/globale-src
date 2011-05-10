@@ -1,0 +1,35 @@
+body {
+  font-family: arial, verdana, sans-serif;
+  font-size: 14px; }
+  body a:link {
+    color: #555555;
+    text-decoration: none; }
+  body a:visited {
+    color: #555555; }
+
+#header {
+  width: 400px;
+  margin: 0 auto; }
+
+#main {
+  float: right;
+  width: 82%; }
+  #main h2#heading {
+    font-family: verdana, tahoma, arial, sans-serif;
+    font-weight: normal;
+    color: #d80000; }
+  #main #content {
+    margin-top: 60px; }
+
+#sidebar {
+  float: left;
+  width: 15%; }
+  #sidebar ul {
+    text-align: right;
+    list-style: none;
+    padding-top: 0.7em; }
+
+div.festival h3 {
+  color: #d80000; }
+div.festival img {
+  width: 180px; }
