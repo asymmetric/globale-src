@@ -7,7 +7,7 @@ body {
   body a:visited {
     color: #555555; }
 
-#header {
+header {
   width: 400px;
   margin: 0 auto; }
 
@@ -31,7 +31,7 @@ body {
     #sidebar ul a.current {
       color: #d80000; }
 
-#footer {
+footer {
   clear: both;
   text-align: center; }
 
