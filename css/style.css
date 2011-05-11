@@ -29,6 +29,10 @@ body {
     list-style: none;
     padding-top: 0.7em; }
 
+#footer {
+  clear: both;
+  text-align: center; }
+
 div.festival h3 {
   color: #d80000; }
 div.festival img {
