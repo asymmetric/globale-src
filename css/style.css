@@ -20,6 +20,11 @@ header {
     color: #d80000; }
   #main #content {
     margin-top: 60px; }
+    #main #content p {
+      position: relative;
+      left: 8px; }
+    #main #content #languages .language {
+      font-style: italic; }
 
 #sidebar {
   float: left;
