@@ -46,3 +46,30 @@ div.festival img {
   width: 180px; }
 div.festival a {
   color: #d80000; }
+
+table#schedule {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #ffca00; }
+  table#schedule th {
+    background-color: #d80000; }
+  table#schedule tr.header {
+    text-align: center; }
+  table#schedule td.time {
+    font-style: italic; }
+  table#schedule td.arab {
+    background-color: blue; }
+  table#schedule td.energy {
+    background-color: green; }
+  table#schedule td.india {
+    background-color: yellow; }
+  table#schedule td.crisis {
+    background-color: red; }
+  table#schedule td.migration {
+    background-color: violet; }
+  table#schedule td.labor {
+    background-color: purple; }
+  table#schedule td.land {
+    background-color: orange; }
+  table#schedule td.care {
+    background-color: cyan; }
