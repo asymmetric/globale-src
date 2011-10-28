@@ -55,3 +55,12 @@ img#program {
 div.press img {
   width: 80%;
   margin-top: 30px; }
+
+p#sponsors img#attac {
+  width: 15%; }
+p#sponsors img#menschen {
+  width: 15%; }
+p#sponsors img#nord {
+  width: 15%; }
+p#sponsors img#rosa {
+  width: 20%; }
