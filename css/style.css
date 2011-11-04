@@ -6,8 +6,6 @@ body {
     text-decoration: none; }
     body a img {
       border: none; }
-  body #sidebar a {
-    color: #555555; }
 
 header {
   width: 400px;
@@ -32,6 +30,8 @@ header {
 #sidebar {
   float: left;
   width: 15%; }
+  #sidebar a {
+    color: #555555; }
   #sidebar ul {
     text-align: right;
     list-style: none;
@@ -50,12 +50,14 @@ div.festival img {
 div.festival a {
   color: #d80000; }
 
+img#logo {
+  margin: auto; }
 img#program {
   width: 100%; }
 img#poster {
   width: 25%;
   float: left;
-  padding: 0 10px 10px 0; }
+  padding: 0 10px 20px 0; }
 
 div.press img {
   width: 80%;
